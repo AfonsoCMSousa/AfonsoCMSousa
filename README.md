@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **afonsoclerigomendessousa@gmail.com** or on Whatsapp: **+351 914 012 062**
 
-- 📄 Know about my experiences [[WIP]]([WIP])
+- 📄 Know about my experiences [WIP]
 
 - ⚡ Fun fact **C lets you store the address of a function in a pointer and call it like a regular function.**
 
