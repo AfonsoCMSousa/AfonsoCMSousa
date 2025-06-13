@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **C and Assembly level of optimisations (Big O)**
 
-- 📫 How to reach me **afonsoclerigomendessousa@gmail.com** or on Whatsapp: **+351 914 012 062**
+- 📫 How to reach me **afonsoclerigomendessousa@gmail.com**
 
 - 📄 Know about my experiences [WIP]
 
