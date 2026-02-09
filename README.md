@@ -1,5 +1,3 @@
-### Welcome to my profile 👋 !
-
 ## ABOUT ME
 
 I am a 20 yrs old low-level lover. All the way down from assebly all the way to C++ and hash-tables
