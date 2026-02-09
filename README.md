@@ -1,6 +1,6 @@
 ## ABOUT ME
 
-I am a 20 yrs old low-level lover. All the way down from assebly all the way to C++ and hash-tables
+I am a 20 yrs old low-level lover. All the way down from assembly to C++ and hash-tables
 
 - 📚 I am a 3rd year student at [IPL (Instituto Politéciono de Leiria)](https://www.ipleiria.pt/) finishing my degreen in Computer Sience and Computer Engeneiring.
 - 👾 My hobbies are: Video Games, Good music & Programming 👨‍💻
